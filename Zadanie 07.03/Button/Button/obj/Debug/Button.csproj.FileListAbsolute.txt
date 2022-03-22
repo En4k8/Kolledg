@@ -1,0 +1,11 @@
+C:\Users\En4k8)\source\repos\Button\Button\bin\Debug\Button.exe.config
+C:\Users\En4k8)\source\repos\Button\Button\bin\Debug\Button.exe
+C:\Users\En4k8)\source\repos\Button\Button\bin\Debug\Button.pdb
+C:\Users\En4k8)\source\repos\Button\Button\obj\Debug\Button.csproj.AssemblyReference.cache
+C:\Users\En4k8)\source\repos\Button\Button\obj\Debug\Button.csproj.SuggestedBindingRedirects.cache
+C:\Users\En4k8)\source\repos\Button\Button\obj\Debug\Button.Properties.Resources.resources
+C:\Users\En4k8)\source\repos\Button\Button\obj\Debug\Button.csproj.GenerateResource.cache
+C:\Users\En4k8)\source\repos\Button\Button\obj\Debug\Button.csproj.CoreCompileInputs.cache
+C:\Users\En4k8)\source\repos\Button\Button\obj\Debug\Button.exe
+C:\Users\En4k8)\source\repos\Button\Button\obj\Debug\Button.pdb
+C:\Users\En4k8)\source\repos\Button\Button\obj\Debug\Button.Button.resources
