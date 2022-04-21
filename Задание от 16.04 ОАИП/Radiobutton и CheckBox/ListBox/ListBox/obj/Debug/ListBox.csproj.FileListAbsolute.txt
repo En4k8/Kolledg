@@ -1,0 +1,9 @@
+C:\Users\En4k_8\source\repos\ListBox\ListBox\bin\Debug\ListBox.exe.config
+C:\Users\En4k_8\source\repos\ListBox\ListBox\bin\Debug\ListBox.exe
+C:\Users\En4k_8\source\repos\ListBox\ListBox\bin\Debug\ListBox.pdb
+C:\Users\En4k_8\source\repos\ListBox\ListBox\obj\Debug\ListBox.Form1.resources
+C:\Users\En4k_8\source\repos\ListBox\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+C:\Users\En4k_8\source\repos\ListBox\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+C:\Users\En4k_8\source\repos\ListBox\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+C:\Users\En4k_8\source\repos\ListBox\ListBox\obj\Debug\ListBox.exe
+C:\Users\En4k_8\source\repos\ListBox\ListBox\obj\Debug\ListBox.pdb
