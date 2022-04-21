@@ -1,0 +1,9 @@
+C:\Users\En4k_8\source\repos\Radiobutton и CheckBox\Radiobutton и CheckBox\obj\Debug\Radiobutton_и_CheckBox.Form1.resources
+C:\Users\En4k_8\source\repos\Radiobutton и CheckBox\Radiobutton и CheckBox\obj\Debug\Radiobutton_и_CheckBox.Properties.Resources.resources
+C:\Users\En4k_8\source\repos\Radiobutton и CheckBox\Radiobutton и CheckBox\obj\Debug\Radiobutton и CheckBox.csproj.GenerateResource.cache
+C:\Users\En4k_8\source\repos\Radiobutton и CheckBox\Radiobutton и CheckBox\obj\Debug\Radiobutton и CheckBox.csproj.CoreCompileInputs.cache
+C:\Users\En4k_8\source\repos\Radiobutton и CheckBox\Radiobutton и CheckBox\bin\Debug\Radiobutton и CheckBox.exe.config
+C:\Users\En4k_8\source\repos\Radiobutton и CheckBox\Radiobutton и CheckBox\bin\Debug\Radiobutton и CheckBox.exe
+C:\Users\En4k_8\source\repos\Radiobutton и CheckBox\Radiobutton и CheckBox\bin\Debug\Radiobutton и CheckBox.pdb
+C:\Users\En4k_8\source\repos\Radiobutton и CheckBox\Radiobutton и CheckBox\obj\Debug\Radiobutton и CheckBox.exe
+C:\Users\En4k_8\source\repos\Radiobutton и CheckBox\Radiobutton и CheckBox\obj\Debug\Radiobutton и CheckBox.pdb
