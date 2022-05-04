@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageList", "ImageList\ImageList.csproj", "{C6BC7620-AE2D-44BF-8C7E-3452137894BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6BC7620-AE2D-44BF-8C7E-3452137894BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6BC7620-AE2D-44BF-8C7E-3452137894BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6BC7620-AE2D-44BF-8C7E-3452137894BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6BC7620-AE2D-44BF-8C7E-3452137894BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {208C4D84-88DD-4AFF-9CD7-28B8EE8C1E2C}
+	EndGlobalSection
+EndGlobal
