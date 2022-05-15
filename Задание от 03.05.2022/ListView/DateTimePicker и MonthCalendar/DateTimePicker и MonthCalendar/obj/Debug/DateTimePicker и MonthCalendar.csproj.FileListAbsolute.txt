@@ -1,0 +1,9 @@
+C:\Users\En4k_8\source\repos\DateTimePicker и MonthCalendar\DateTimePicker и MonthCalendar\bin\Debug\DateTimePicker и MonthCalendar.exe.config
+C:\Users\En4k_8\source\repos\DateTimePicker и MonthCalendar\DateTimePicker и MonthCalendar\bin\Debug\DateTimePicker и MonthCalendar.exe
+C:\Users\En4k_8\source\repos\DateTimePicker и MonthCalendar\DateTimePicker и MonthCalendar\bin\Debug\DateTimePicker и MonthCalendar.pdb
+C:\Users\En4k_8\source\repos\DateTimePicker и MonthCalendar\DateTimePicker и MonthCalendar\obj\Debug\DateTimePicker_и_MonthCalendar.Form1.resources
+C:\Users\En4k_8\source\repos\DateTimePicker и MonthCalendar\DateTimePicker и MonthCalendar\obj\Debug\DateTimePicker_и_MonthCalendar.Properties.Resources.resources
+C:\Users\En4k_8\source\repos\DateTimePicker и MonthCalendar\DateTimePicker и MonthCalendar\obj\Debug\DateTimePicker и MonthCalendar.csproj.GenerateResource.cache
+C:\Users\En4k_8\source\repos\DateTimePicker и MonthCalendar\DateTimePicker и MonthCalendar\obj\Debug\DateTimePicker и MonthCalendar.csproj.CoreCompileInputs.cache
+C:\Users\En4k_8\source\repos\DateTimePicker и MonthCalendar\DateTimePicker и MonthCalendar\obj\Debug\DateTimePicker и MonthCalendar.exe
+C:\Users\En4k_8\source\repos\DateTimePicker и MonthCalendar\DateTimePicker и MonthCalendar\obj\Debug\DateTimePicker и MonthCalendar.pdb
