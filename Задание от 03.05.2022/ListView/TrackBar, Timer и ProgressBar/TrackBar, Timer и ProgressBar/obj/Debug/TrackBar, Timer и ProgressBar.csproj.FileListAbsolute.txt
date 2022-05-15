@@ -1,0 +1,10 @@
+C:\Users\En4k_8\source\repos\TrackBar, Timer и ProgressBar\TrackBar, Timer и ProgressBar\bin\Debug\TrackBar, Timer и ProgressBar.exe.config
+C:\Users\En4k_8\source\repos\TrackBar, Timer и ProgressBar\TrackBar, Timer и ProgressBar\bin\Debug\TrackBar, Timer и ProgressBar.exe
+C:\Users\En4k_8\source\repos\TrackBar, Timer и ProgressBar\TrackBar, Timer и ProgressBar\bin\Debug\TrackBar, Timer и ProgressBar.pdb
+C:\Users\En4k_8\source\repos\TrackBar, Timer и ProgressBar\TrackBar, Timer и ProgressBar\obj\Debug\TrackBar, Timer и ProgressBar.csproj.AssemblyReference.cache
+C:\Users\En4k_8\source\repos\TrackBar, Timer и ProgressBar\TrackBar, Timer и ProgressBar\obj\Debug\TrackBar__Timer_и_ProgressBar.Form1.resources
+C:\Users\En4k_8\source\repos\TrackBar, Timer и ProgressBar\TrackBar, Timer и ProgressBar\obj\Debug\TrackBar__Timer_и_ProgressBar.Properties.Resources.resources
+C:\Users\En4k_8\source\repos\TrackBar, Timer и ProgressBar\TrackBar, Timer и ProgressBar\obj\Debug\TrackBar, Timer и ProgressBar.csproj.GenerateResource.cache
+C:\Users\En4k_8\source\repos\TrackBar, Timer и ProgressBar\TrackBar, Timer и ProgressBar\obj\Debug\TrackBar, Timer и ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\En4k_8\source\repos\TrackBar, Timer и ProgressBar\TrackBar, Timer и ProgressBar\obj\Debug\TrackBar, Timer и ProgressBar.exe
+C:\Users\En4k_8\source\repos\TrackBar, Timer и ProgressBar\TrackBar, Timer и ProgressBar\obj\Debug\TrackBar, Timer и ProgressBar.pdb
