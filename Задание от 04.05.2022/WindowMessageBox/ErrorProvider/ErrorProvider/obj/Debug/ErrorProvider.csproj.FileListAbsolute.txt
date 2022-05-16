@@ -1,0 +1,9 @@
+C:\Users\En4k_8\source\repos\ErrorProvider\ErrorProvider\bin\Debug\ErrorProvider.exe.config
+C:\Users\En4k_8\source\repos\ErrorProvider\ErrorProvider\bin\Debug\ErrorProvider.exe
+C:\Users\En4k_8\source\repos\ErrorProvider\ErrorProvider\bin\Debug\ErrorProvider.pdb
+C:\Users\En4k_8\source\repos\ErrorProvider\ErrorProvider\obj\Debug\ErrorProvider.Form1.resources
+C:\Users\En4k_8\source\repos\ErrorProvider\ErrorProvider\obj\Debug\ErrorProvider.Properties.Resources.resources
+C:\Users\En4k_8\source\repos\ErrorProvider\ErrorProvider\obj\Debug\ErrorProvider.csproj.GenerateResource.cache
+C:\Users\En4k_8\source\repos\ErrorProvider\ErrorProvider\obj\Debug\ErrorProvider.csproj.CoreCompileInputs.cache
+C:\Users\En4k_8\source\repos\ErrorProvider\ErrorProvider\obj\Debug\ErrorProvider.exe
+C:\Users\En4k_8\source\repos\ErrorProvider\ErrorProvider\obj\Debug\ErrorProvider.pdb
