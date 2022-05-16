@@ -1,0 +1,10 @@
+C:\Users\En4k_8\source\repos\WindowMessageBox\WindowMessageBox\bin\Debug\WindowMessageBox.exe.config
+C:\Users\En4k_8\source\repos\WindowMessageBox\WindowMessageBox\bin\Debug\WindowMessageBox.exe
+C:\Users\En4k_8\source\repos\WindowMessageBox\WindowMessageBox\bin\Debug\WindowMessageBox.pdb
+C:\Users\En4k_8\source\repos\WindowMessageBox\WindowMessageBox\obj\Debug\WindowMessageBox.csproj.AssemblyReference.cache
+C:\Users\En4k_8\source\repos\WindowMessageBox\WindowMessageBox\obj\Debug\WindowMessageBox.Form1.resources
+C:\Users\En4k_8\source\repos\WindowMessageBox\WindowMessageBox\obj\Debug\WindowMessageBox.Properties.Resources.resources
+C:\Users\En4k_8\source\repos\WindowMessageBox\WindowMessageBox\obj\Debug\WindowMessageBox.csproj.GenerateResource.cache
+C:\Users\En4k_8\source\repos\WindowMessageBox\WindowMessageBox\obj\Debug\WindowMessageBox.csproj.CoreCompileInputs.cache
+C:\Users\En4k_8\source\repos\WindowMessageBox\WindowMessageBox\obj\Debug\WindowMessageBox.exe
+C:\Users\En4k_8\source\repos\WindowMessageBox\WindowMessageBox\obj\Debug\WindowMessageBox.pdb
