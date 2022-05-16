@@ -1,0 +1,10 @@
+C:\Users\En4k_8\source\repos\OpenFileDialog and SaveFileDialog\OpenFileDialog and SaveFileDialog\bin\Debug\OpenFileDialog and SaveFileDialog.exe.config
+C:\Users\En4k_8\source\repos\OpenFileDialog and SaveFileDialog\OpenFileDialog and SaveFileDialog\bin\Debug\OpenFileDialog and SaveFileDialog.exe
+C:\Users\En4k_8\source\repos\OpenFileDialog and SaveFileDialog\OpenFileDialog and SaveFileDialog\bin\Debug\OpenFileDialog and SaveFileDialog.pdb
+C:\Users\En4k_8\source\repos\OpenFileDialog and SaveFileDialog\OpenFileDialog and SaveFileDialog\obj\Debug\OpenFileDialog and SaveFileDialog.csproj.AssemblyReference.cache
+C:\Users\En4k_8\source\repos\OpenFileDialog and SaveFileDialog\OpenFileDialog and SaveFileDialog\obj\Debug\OpenFileDialog_and_SaveFileDialog.Form1.resources
+C:\Users\En4k_8\source\repos\OpenFileDialog and SaveFileDialog\OpenFileDialog and SaveFileDialog\obj\Debug\OpenFileDialog_and_SaveFileDialog.Properties.Resources.resources
+C:\Users\En4k_8\source\repos\OpenFileDialog and SaveFileDialog\OpenFileDialog and SaveFileDialog\obj\Debug\OpenFileDialog and SaveFileDialog.csproj.GenerateResource.cache
+C:\Users\En4k_8\source\repos\OpenFileDialog and SaveFileDialog\OpenFileDialog and SaveFileDialog\obj\Debug\OpenFileDialog and SaveFileDialog.csproj.CoreCompileInputs.cache
+C:\Users\En4k_8\source\repos\OpenFileDialog and SaveFileDialog\OpenFileDialog and SaveFileDialog\obj\Debug\OpenFileDialog and SaveFileDialog.exe
+C:\Users\En4k_8\source\repos\OpenFileDialog and SaveFileDialog\OpenFileDialog and SaveFileDialog\obj\Debug\OpenFileDialog and SaveFileDialog.pdb
